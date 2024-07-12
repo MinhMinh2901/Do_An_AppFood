@@ -22,7 +22,7 @@
 
 
 ### Register_PickDate - InfoDev
-<img src="imageScreens/Register_PickDate.png" width="250"> <img src="imageScreens/InfoScreean.png" width="250">
+<img src="imageScreens/Register_PickDate.png" width="250"> 
 
 ## Hướng dẫn sử dụng 
 >Dành cho các bạn cũng gà như tui (mấy pro vô đọc đừng cười)
